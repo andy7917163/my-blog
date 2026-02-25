@@ -1,0 +1,5 @@
+{
+  "outputDirectory": "public",
+  "buildCommand": "go run ./cmd/blog build",
+  "installCommand": "go mod download"
+}

@@ -1,0 +1,3 @@
+title: 我的部落格
+description: 用 Go 打造的靜態部落格
+baseURL: https://your-blog.vercel.app
